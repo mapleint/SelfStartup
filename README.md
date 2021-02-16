@@ -4,5 +4,5 @@ if you don't want to have the console pop up quickly, just disable the showwindo
 I am not responsible for if you make a persistent keylogger out of this. I will not help you anyfurther  
 I have to say this since I'm still getting messages about Bean Battles Hacking
   
-#programming style?  
+## programming style?  
 My friend said it looked like psuedocode (from a decompiler) and I just went with it.
